@@ -24,8 +24,4 @@
 
 
 =================================================
-1] - Hash Checker 
-2] - Hash lingth  
-3] - Hash type
-4] - MD5 Encrypt  
-5] - Md5 Decrypt 
+1] - Hash Checker 2] - Hash lingth  3] - Hash type4] - MD5 Encrypt  5] - Md5 Decrypt 
